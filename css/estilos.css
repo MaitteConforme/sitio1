@@ -1,0 +1,23 @@
+body{
+	background: linear-gradient(to right,mediumturquoise,mediumpurple);
+}
+
+p{
+	font-family:Conformity ;
+	font-size:16px;
+	color:darkblue ;
+}
+
+h1,tr,td{
+    text-align:center ;
+    color: #3B00C5;
+}
+
+.texto{
+	font-weight: bold;
+}
+#contenedor{
+	border: 2px solid #BC00EA;
+	padding: 5px;
+
+}
